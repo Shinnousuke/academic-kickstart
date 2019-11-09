@@ -38,7 +38,7 @@ education:
     year: 2019
   - course: B.A. in Economics
     institution: University of Tokyo
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
