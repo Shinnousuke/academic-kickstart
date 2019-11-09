@@ -33,10 +33,10 @@ education:
   - course: Ph.D. in Economics
     institution: Massachusetts Institute of Technology
     year: 2019-2025 (expected)
-  - course: MA in Economics
+  - course: M.A. in Economics
     institution: University of Tokyo
     year: 2019
-  - course: BA in Economics
+  - course: B.A. in Economics
     institution: University of Tokyo
     year: 2012
 
