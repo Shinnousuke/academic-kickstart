@@ -77,5 +77,6 @@ subtitle = ""
 
 - "Technology, Inequality, and Aggregate Demand"
 
-- "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle" ;
+- "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"
+
 (joint with Sagiri Kitao)
