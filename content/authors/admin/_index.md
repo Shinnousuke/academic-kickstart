@@ -15,7 +15,7 @@ role: Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name: Massachusetts Institute of Technology
-  url: ""
+  url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Macroeconomics, labor economics, and public economics.
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Economics
+    institution: Massachusetts Institute of Technology
+    year: 2019-2025 (expected)
   - course: MA in Economics
     institution: University of Tokyo
     year: 2019
@@ -62,9 +65,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Shinnosuke (Shin) Kikuchi is a first year Ph. D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
