@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Relevant Experience"
+title = "Relevant Potition"
 subtitle = ""
 
 # Date format for experience
@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Research Fellow"
+  company = "Japan Society for the Promotion of Science"
+  company_url = ""
+  location = "Tokyo"
+  date_start = "2019-04-01"
+  date_end = "2019-07-31"
+  description = ""
 [[experience]]
   title = "Trainee"
   company = "Center for Research and Education in Program Evaluation, University of Tokyo"
