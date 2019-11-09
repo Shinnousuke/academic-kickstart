@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Economics, University of Tokyo"
   organization_url = "https://www.u-tokyo.ac.jp/en/index.html"
-  title = "Summa Cum Laude,"
+  title = "Summa Cum Laude"
   url = ""
   certificate_url = ""
   date_start = "2016-03-25"
