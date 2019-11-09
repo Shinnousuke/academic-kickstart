@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title = "Research"
+title = "Working Paper"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "Research"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -38,7 +38,7 @@ subtitle = ""
   columns = "2"
 
   # Toggle between the various page layout types.
-  #   1 = List
+     1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
@@ -74,4 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Technology, Inequality, and Aggregate Demand
 
