@@ -1,10 +1,10 @@
 +++
-title = "Technology, Inequality, and Aggregate Demand"
+title = "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"
 date = 2019-11-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shinnosuke Kikuchi"]
+authors = ["Shinnosuke Kikuchi" "Sagiri Kitao"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["3"]
 # publication_short = "WSC 2018"
 
 # Abstract and optional shortened version.
-abstract = "What is the macroeconomic implications of inequality caused by technological progress? Using a standard over-lapping-generations model with skill heterogeneity and the Roy-type occupational choice, this paper examines how routine-biased technological change impacts income distribution and aggregate demand. It finds that the relatively rapid labor productivity increase in the manufacturing sector compared to the service sector can explain job and wage polarization and about two-thirds of the decline in the real interest rate in the US from the 1980's to 2010's. It also documents the potential contribution of that biased technological change to the stagnation of aggregate output."
+#abstract = "What is the macroeconomic implications of inequality caused by technological progress? Using a standard over-lapping-generations model with skill heterogeneity and the Roy-type occupational choice, this paper examines how routine-biased technological change impacts income distribution and aggregate demand. It finds that the relatively rapid labor productivity increase in the manufacturing sector compared to the service sector can explain job and wage polarization and about two-thirds of the decline in the real interest rate in the US from the 1980's to 2010's. It also documents the potential contribution of that biased technological change to the stagnation of aggregate output."
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -40,12 +40,12 @@ featured = false
 tags = []
 
 # Links (optional).
-url_pdf = "/downloads/AIAD.pdf"
+#url_pdf = "/downloads/AIAD.pdf"
 #url_preprint = "/downloads/MyopiaInDynamicSpatialGames.pdf"
 #url_code = "https://github.com/rebekahanne/Myopia_dynamic_spatial_games"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "/downloads/AIAD-slide.pdf"
+#url_slides = "/downloads/AIAD-slide.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
