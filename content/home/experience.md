@@ -24,5 +24,5 @@ date_format = "Jan 2006"
   location = "Tokyo, Vancouver"
   date_start = "2017-01-01"
   date_end = "2018-04-02"
-  description = """
+  description = ""
 +++
