@@ -18,12 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Macroeconomics, labor economics, and public economics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroeconomics
+- Inequality
+- Labor economics
+- Public economics
+- Development economics
+- Econometrics
 
 education:
   courses:
@@ -41,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:shinnkikuchi@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ShinnKikuchi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Shinnousuke
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Shinnosuke (Shin) Kikuchi is a first year Ph. D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with public finance, labor economics, development, and econometrics. 
+Shinnosuke (Shin) Kikuchi is a first year Ph. D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
