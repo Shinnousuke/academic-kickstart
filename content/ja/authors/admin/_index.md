@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Economics
-    institution: Massachusetts Institute of Technology
-    year: 2019-2025 (expected)
+  - course: 経済学博士課程
+    institution:  マサチューセッツ工科大学
+    year: 2019-2025 (予定)
   - course: 経済学　修士
     institution: 東京大学
     year: 2019
@@ -54,11 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Shinnousuke
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: "home/docs/CV.pdf"
+- icon: cv
+  icon_pack: ai
+  link: "ja/home/docs/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
