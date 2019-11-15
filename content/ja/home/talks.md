@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "出没情報"
 subtitle = ""
 
 [content]
@@ -67,3 +67,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* [2019年7月21日(日) 海外大学院留学説明会@東京大学](https://gakuiryugaku.net/seminar/1263?fbclid=IwAR1bG4lwesIqmn-uHtE4yoFydzUhVl_3YZNB-8Jbq4hu79mnay8xke2pKfI)

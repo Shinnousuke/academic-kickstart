@@ -22,7 +22,6 @@ bio: My research interests include Macroeconomics, labor economics, and public e
 
 interests:
 - マクロ経済学
-- 格差
 - 労働経済学
 - 公共経済学
 - 開発経済学・経済成長論
@@ -32,7 +31,7 @@ education:
   courses:
   - course: 経済学博士課程
     institution:  マサチューセッツ工科大学
-    year: 2019-2025 (予定)
+    year: 2019-2025 (在)
   - course: 経済学　修士
     institution: 東京大学
     year: 2019
@@ -47,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:shinnkikuchi@gmail.com".
+  link: 'mailto:skikuchi@mit.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShinnKikuchi_jp
@@ -68,5 +67,8 @@ email: ""
 # - Visitors
 ---
 
-マサチューセッツ工科大学の経済学博士課程にて、マクロ経済学と格差についての研究を主に行なっております。
+マサチューセッツ工科大学 経済学部博士課程
+
+マクロ経済学や計量経済学の手法を用いて、経済成長と格差、テクノロジーが労働市場にもたらす影響とそれに伴う政策対応について研究。
+
 研究の詳細については[英語のページ](https://shinnosuke-kikuchi.com/en/publication/)をご覧ください。

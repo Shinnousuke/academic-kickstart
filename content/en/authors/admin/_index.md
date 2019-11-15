@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shinnkikuchi@gmail.com'  # For a direct email link, use "mailto:shinnkikuchi@gmail.com".
+  link: 'mailto:skikuchi@mit.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShinnKikuchi

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Relevant Potition"
+title = "その他経験"
 subtitle = ""
 
 # Date format for experience
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   location = "東京"
   date_start = "2019-04-01"
   date_end = "2019-06-30"
-  description = "経済産業省にて、大学院レベルの経済成長論に関する講義を4回計8時間行いました"
+  description = "大学院レベルの経済成長論に関する集中講義"
 [[experience]]
   title = "特別研究員(DC1)"
   company = "日本学術振興会"
@@ -56,5 +56,5 @@ date_format = "Jan 2006"
   location = "東京"
   date_start = "2018-11-01"
   date_end = "2019-04-01"
-  description = ""  
+  description = "投資調査部"  
 +++
