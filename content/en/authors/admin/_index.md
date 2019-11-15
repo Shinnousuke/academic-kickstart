@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-Shinnosuke (Shin) Kikuchi is a first year Ph. D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
+Shinnosuke (Shin) Kikuchi is a first year Ph.D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
