@@ -13,10 +13,10 @@
 #  url = "publication/"
 #  weight = 20
 
-[[main]]
-  name = "英語のページ"
-  url = "https://shinnosuke-kikuchi.com/en/"
-  weight = 30
+#[[main]]
+#  name = "英語のページ"
+#  url = "https://shinnosuke-kikuchi.com/en/"
+#  weight = 30
 
 #[[main]]
 #  name = "Teaching"
