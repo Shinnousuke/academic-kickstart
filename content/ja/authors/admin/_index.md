@@ -32,10 +32,10 @@ education:
   - course: 経済学博士課程
     institution:  マサチューセッツ工科大学
     year: 2019-2025 (在)
-  - course: 経済学　修士
+  - course: 経済学修士
     institution: 東京大学
     year: 2019
-  - course: 経済学　学士
+  - course: 経済学学士
     institution: 東京大学
     year: 2016
 
