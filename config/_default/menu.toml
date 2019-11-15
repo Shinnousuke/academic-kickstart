@@ -13,9 +13,9 @@
   url = "publication/"
   weight = 20
 
-#[[main]]
+[[main]]
 #  name = "Japanese"
-#  url = "#japanese"
+#  url = "ja/"
 #  weight = 30
 
 #[[main]]

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shinnosuke Kikuchi
+name: 菊池　信之介(Shinnosuke Kikuchi)
 
 # Username (this should match the folder name)
 authors:
@@ -21,23 +21,23 @@ organizations:
 bio: My research interests include Macroeconomics, labor economics, and public economics.
 
 interests:
-- Macroeconomics
-- Inequality
-- Labor economics
-- Public economics
-- Development economics
-- Econometrics
+- マクロ経済学
+- 格差
+- 労働経済学
+- 公共経済学
+- 開発経済学・経済成長論
+- 計量経済学・因果推論
 
 education:
   courses:
   - course: Ph.D. in Economics
     institution: Massachusetts Institute of Technology
     year: 2019-2025 (expected)
-  - course: M.A. in Economics
-    institution: University of Tokyo
+  - course: 経済学　修士
+    institution: 東京大学
     year: 2019
-  - course: B.A. in Economics
-    institution: University of Tokyo
+  - course: 経済学　学士
+    institution: 東京大学
     year: 2016
 
 # Social/Academic Networking
@@ -50,7 +50,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:shinnkikuchi@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ShinnKikuchi
+  link: https://twitter.com/ShinnKikuchi_jp
 - icon: github
   icon_pack: fab
   link: https://github.com/Shinnousuke
@@ -70,4 +70,5 @@ email: ""
 # - Visitors
 ---
 
-Shinnosuke (Shin) Kikuchi is a first year Ph. D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
+マサチューセッツ工科大学の経済学博士課程にて、マクロ経済学と格差についての研究を主に行なっております。
+研究の詳細については英語のページをご覧ください。
