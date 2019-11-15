@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: "home/docs/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ email: ""
 ---
 
 マサチューセッツ工科大学の経済学博士課程にて、マクロ経済学と格差についての研究を主に行なっております。
-研究の詳細については英語のページをご覧ください。
+研究の詳細については[英語のページ](https://shinnosuke-kikuchi.com/en/publication/)をご覧ください。

@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "ホーム"
   url = ""
   weight = 10
 
-[[main]]
-  name = "Research"
-  url = "publication/"
-  weight = 20
+#[[main]]
+#  name = "Research"
+#  url = "publication/"
+#  weight = 20
 
 [[main]]
-#  name = "Japanese"
-#  url = "ja/"
-#  weight = 30
+  name = "英語のページ"
+  url = "https://shinnosuke-kikuchi.com/en/"
+  weight = 30
 
 #[[main]]
 #  name = "Teaching"
@@ -31,6 +31,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-  name = "CV"
-  url = "en/home/docs/CV.pdf"
+  name = "英文略歴"
+  url = "ja/home/docs/CV.pdf"
   weight = 70
