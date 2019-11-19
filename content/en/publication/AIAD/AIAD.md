@@ -40,12 +40,12 @@ featured = false
 tags = []
 
 # Links (optional).
-url_pdf = "/downloads/AIAD.pdf"
+url_pdf = "en/downloads/AIAD.pdf"
 #url_preprint = "/downloads/MyopiaInDynamicSpatialGames.pdf"
 #url_code = "https://github.com/rebekahanne/Myopia_dynamic_spatial_games"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "/downloads/AIAD-slide.pdf"
+url_slides = "en/downloads/AIAD-slide.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
