@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
+  organization = "Massachusetts Institute of Technology"
+  organization_url = ""
+  title = "Lewent and Shapiro Economics Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = "2020-05-30"
+  description = ""
+[[item]]
+  organization = "Massachusetts Institute of Technology"
+  organization_url = ""
+  title = "Clyo F. Castile Graduate Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = "2020-05-30"
+  description = ""
+[[item]]
   organization = "Nakajima Foundation"
   organization_url = ""
   title = "Nakajima Foundation Scholarship"
