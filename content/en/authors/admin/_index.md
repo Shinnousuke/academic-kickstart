@@ -32,11 +32,11 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Massachusetts Institute of Technology
-    year: 2019-2025 (expected)
+    year: 2019- (current)
   - course: M.A. in Economics
     institution: University of Tokyo
     year: 2019
-  - course: B.A. in Economics
+  - course: B.A. in Economics(Varedictorian)
     institution: University of Tokyo
     year: 2016
 
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-Shinnosuke (Shin) Kikuchi is a first year Ph.D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with labor economics, public economics, development economics, and econometrics. 
+Shinnosuke (Shin) Kikuchi is a first year Ph.D. student at MIT Economics. His main research themes are Macroeconomics and Inequality. He works on a broad array of topics which overlap with Labor Economics, Public Economics, Development Economics, and Econometrics. 
