@@ -67,4 +67,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+予定
+
+* [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)
+
+過去
+
 * [2019年7月21日(日) 海外大学院留学説明会@東京大学](https://gakuiryugaku.net/seminar/1263?fbclid=IwAR1bG4lwesIqmn-uHtE4yoFydzUhVl_3YZNB-8Jbq4hu79mnay8xke2pKfI)
