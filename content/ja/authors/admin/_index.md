@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Ph.D. student at MIT Economics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics, labor economics, and public economics.
+bio: Macroeconomists interested in Technology, Inequality, and Demand
 
 interests:
 - マクロ経済学
