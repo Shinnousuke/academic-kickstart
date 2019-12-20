@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Macroeconomists interested in Technology, Inequality, and Demand
+bio: Ph.D. student interested in Macroeconomics, Technology, and Inequality
 
 interests:
 - マクロ経済学
