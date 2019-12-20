@@ -207,7 +207,7 @@ MIT経済学部博士課程では、米国他大学の理系・経済学博士�
 
 - [Advice for Applying to Grad School in Economics](https://athey.people.stanford.edu/professional-advice) by Susan Athey, Stanford. 英語だが、かなり基本情報がコンパクトにまとまっている
 
-- [ブログ](http://alexisakiratoda.seesaa.net/article/435601362.html) by Alexis Akira Toda, UCLA. 入試選考プロセスについて日本語で読める貴重なブログ
+- [ブログ](http://alexisakiratoda.seesaa.net/article/435601362.html) by Alexis Akira Toda, UCSD. 入試選考プロセスについて日本語で読める貴重なブログ
 
 - [『ロンドン桜』：課外授業１限目
 【PhDへの道】](http://blog.livedoor.jp/yagena/archives/50012851.html) by Yosuke Yasuda, Osaka-U
