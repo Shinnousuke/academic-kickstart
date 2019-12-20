@@ -102,7 +102,7 @@ TOEFLを求められることが多いです。周りの日本からの合格者
 - ちなみに、Chicagoには、欧米の学部・大学院を経て留学された、日本出身の方が複数いらっしゃるようです（詳しいことは確認中です）
 
 #### トップ10(MIT, Harvard, Stanford, Princeton, Chicago, Berkeley, Northwestern, Yale, Penn, Columbia)
-- 16名(Top5 5, Yale 4, Northwestern 3, Penn 2, Berkeley 1, Columbia 1)
+- 17名(Top5 5, Yale 5, Northwestern 3, Penn 2, Berkeley 1, Columbia 1)
 - 全員が東京大学経済学研究科で修士を終えてから出願。毎年3名ほどが進学する印象です。YaleとNorthwesternは全員非マクロ系、Penn, Berkeley, Columbiaは全員マクロ系です。
 - ちなみに、Northwesternには、中央銀行からの派遣・欧米の学部を経て留学された、日本出身の方が若干名いらっしゃるようです。
 
