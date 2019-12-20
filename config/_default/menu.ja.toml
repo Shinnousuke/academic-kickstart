@@ -8,10 +8,10 @@
   url = ""
   weight = 10
 
-#[[main]]
-#  name = "Research"
-#  url = "publication/"
-#  weight = 20
+[[main]]
+  name = "作文"
+  url = "ja/post"
+  weight = 20
 
 #[[main]]
 #  name = "英語のページ"
