@@ -31,8 +31,6 @@ image:
 projects: []
 ---
 
-<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=localhost:1313/ja/post/phd/&digit=style/plain/3/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://https://www.reliablecounter.com/blog" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter.com</a>
-
 ## 0. はじめに
 
 経済学においては、海外PhDへの留学が、一定の割合盛んであるように思われます。後にリンクを掲載するように、既に良質な情報がアクセス可能となっていますが、2019年出願組の友人たちから繰り返し質問があり、私の方でもいくつか補足できる点もあるのではと思い、このページを作りました。ここでは特に、普段あまり触れられることのない、出願準備、トップ校への合格の厳しさや、出願準備の体験談に関する自説に焦点をしぼって紹介させていただきたいと思います。留学中あるいは留学済、はたまた先生方におかれましては、何か追加いただける情報がありましたら、菊池（shinnkikuchi[at]gmail.com）までご連絡いただけますと幸いです。
