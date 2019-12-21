@@ -109,7 +109,7 @@ TOEFLを求められることが多いです。周りの日本からの合格者
 
 #### トップ5(MIT, Harvard, Stanford, Princeton, Chicago)
 - 5名(MIT 2, Harvard 0 , Stanford 1, Princeton 2, Chicago 0)
-- 全員が東京大学経済学研究科で修士を終えてから出願。毎年数人合格していた数十年前とは異なり、非常に厳しい状況です。Princetonの1名を除いて、他の4名は全員マクロ系かつA先生の学生です。
+- 全員が東京大学経済学研究科で修士を終えてから出願。毎年数人合格していた数十年前とは異なり、非常に厳しい状況です。Princetonの1名を除いて、他の4名は全員マクロ系です。
 - ちなみに、Chicagoには、欧米の学部・大学院を経て留学された、日本出身の方が複数いらっしゃるようです（詳しいことは確認中です）
 
 #### トップ10(MIT, Harvard, Stanford, Princeton, Chicago, Berkeley, Northwestern, Yale, Penn, Columbia)
