@@ -67,10 +67,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-予定
+2019年12月26日現在、予定はありません
 
-* [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)
 
 過去
 
+* [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)
+
+海外大学院留学について、かなり一般的なお話をしました。詳しくは、[当日の資料](https://www.dropbox.com/s/yzy6otg4zvnn80j/slide_Panel_Admission_PhD_abroad_vFrev1.pdf?dl=0)をご覧ください。
+
 * [2019年7月21日(日) 海外大学院留学説明会@東京大学](https://gakuiryugaku.net/seminar/1263?fbclid=IwAR1bG4lwesIqmn-uHtE4yoFydzUhVl_3YZNB-8Jbq4hu79mnay8xke2pKfI)
+
+海外PhD留学について、出願準備と合格の決め手についてお話しました。
+
