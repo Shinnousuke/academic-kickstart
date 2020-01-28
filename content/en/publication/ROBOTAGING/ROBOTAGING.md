@@ -4,7 +4,7 @@ date = 2019-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shinnosuke Kikuchi", "Sagiri Kitao"]
+authors = ["Shinnosuke Kikuchi", "Sagiri Kitao (UTokyo)"]
 
 # Publication type.
 # Legend:
@@ -70,4 +70,6 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Draft will be available soon
+Draft will be available soon.
+
+[Sagiri](https://sites.google.com/site/sagirikitao/) will present this paper at [2nd GRIPS-UT MACROECONOMICS & POLICY WORKSHOP IN TOKYO](https://sites.google.com/view/grips-ut-2019/)
