@@ -17,12 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Business Analyst"
-  company = "McKinsey and Company"
-  company_url = ""
-  location = "Tokyo, Vancouver"
-  date_start = "2017-01-01"
-  date_end = "2018-04-02"
-  description = ""
+#[[experience]]
+#  title = "Business Analyst"
+#  company = "McKinsey and Company"
+#  company_url = ""
+#  location = "Tokyo, Vancouver"
+#  date_start = "2017-01-01"
+#  date_end = "2018-04-02"
+#  description = ""
 +++
+
+**[McKinsey & Company](https://www.mckinsey.com/)** - Tokyo, Japan  
+*Business Analyst, Jan 2017 - Mar 2018*
