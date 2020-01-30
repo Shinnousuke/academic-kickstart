@@ -8,15 +8,15 @@
   url = ""
   weight = 10
 
-#[[main]]
-#  name = "Research"
-#  url = "publication/"
-# weight = 20
+[[main]]
+  name = "Research"
+  url = "#publications"
+ weight = 20
 
-#[[main]]
-#  name = "Japanese"
-#  url = "https://shinnosuke-kikuchi.com/ja/"
-#  weight = 30
+ [[main]]
+  name = "Experience"
+  url = "#employment"
+  weight = 30
 
 #[[main]]
 #  name = "Teaching"

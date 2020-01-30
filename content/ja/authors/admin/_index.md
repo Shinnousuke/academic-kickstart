@@ -50,9 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShinnKikuchi_jp
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Shinnousuke
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/Shinnousuke
 - icon: cv
   icon_pack: ai
   link: "ja/home/docs/CV.pdf"

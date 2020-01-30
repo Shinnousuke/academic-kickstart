@@ -10,7 +10,7 @@
 
 #[[main]]
 #  name = "作文"
-#  url = "ja/post"
+#  url = "#posts_ja"
 #  weight = 20
 
 #[[main]]
