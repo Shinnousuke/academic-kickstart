@@ -74,7 +74,7 @@ date_format = "Jan 2006"
 
 +++
 
-**Graduate Fellowship** --- *Sep 2019 - May 2024*  
+**Graduate Fellowship** --- *2019 - 2024*  
 [MIT Department of Economics](https://economics.mit.edu/)  
 
 **Nakajima Foundation Scholarship** --- *2019 - 2021*  
