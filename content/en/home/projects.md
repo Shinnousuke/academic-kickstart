@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research in Progress"
+title = "Work in Progress"
 subtitle = ""
 
 [content]
@@ -75,7 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
-- "Technology, Inequality, and Aggregate Demand"
+- "Technology, Inequality, and Aggregate Demand"  
+[SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3332993)
 
-- "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"
-(joint with Sagiri Kitao)
+- "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"  
+joint with Sagiri Kitao(UTokyo)
