@@ -22,7 +22,6 @@ bio: I am a macroeconomist interested in understanding inequality and growth.
 
 interests:
 - Macroeconomics
-- Inequality
 - Labor economics
 - Public economics
 - Development economics
