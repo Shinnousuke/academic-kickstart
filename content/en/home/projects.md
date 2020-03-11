@@ -80,4 +80,7 @@ subtitle = ""
 
 - "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"  
 (Draft available soon)  
-joint with Sagiri Kitao(UTokyo)
+joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)
+
+- "Growth without Industrialization"  
+joint with Tishara Garg (MIT)
