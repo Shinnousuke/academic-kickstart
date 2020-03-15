@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -74,12 +74,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"  
+**"Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"**  
+joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)  
 (Draft available soon)  
-joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)
 
-- "Growth without Industrialization"  
+**"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
 
-- "Spurious Disappearance of the M-curve: What Changed Female Labor Force Participation in Japan?"  
+**"Spurious Disappearance of the M-curve: What Changed Female Labor Force Participation in Japan?"**  
 joint with Minamo Mikoshiba (UTokyo)
