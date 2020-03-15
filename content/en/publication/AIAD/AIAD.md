@@ -70,3 +70,6 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+Working Paper:
+[SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3332993)
+

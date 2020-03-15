@@ -74,13 +74,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-- "Technology, Inequality, and Aggregate Demand"  
-[SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3332993)
-
 - "Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"  
 (Draft available soon)  
 joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)
 
 - "Growth without Industrialization"  
 joint with Tishara Garg (MIT)
+
+- "Spurious Disappearance of the M-curve: What Changed Female Labor Force Participation in Japan?"  
+joint with Minamo Mikoshiba (UTokyo)
