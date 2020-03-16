@@ -81,5 +81,6 @@ joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)
 **"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
 
-**"Spurious Disappearance of the M-curve: What Changed Female Labor Force Participation in Japan?"**  
-joint with Minamo Mikoshiba (UTokyo)
+**"The Tie between Female and Machine: Implications of Aging for Female Employment, Automation, and Structural Change"**  
+joint with Minamo Mikoshiba (UTokyo)  
+(Draft available soon)
