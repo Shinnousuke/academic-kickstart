@@ -78,9 +78,9 @@ subtitle = ""
 joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)  
 (Draft available soon)  
 
+**"The Tie between Female and Machine: Implications of Aging for Female Employment, Automation, and Structural Change"**  
+joint with [Minamo Mikoshiba](https://sites.google.com/view/minamomikoshiba/) (UTokyo)  
+(Draft available soon)
+
 **"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
-
-**"The Tie between Female and Machine: Implications of Aging for Female Employment, Automation, and Structural Change"**  
-joint with Minamo Mikoshiba (UTokyo)  
-(Draft available soon)
