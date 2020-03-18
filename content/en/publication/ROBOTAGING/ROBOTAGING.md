@@ -4,7 +4,7 @@ date = 2020-03-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shinnosuke Kikuchi", "[Sagiri Kitao](https://sites.google.com/site/sagirikitao/)"]
+authors = ["Shinnosuke Kikuchi", "Sagiri Kitao"]
 
 # Publication type.
 # Legend:
