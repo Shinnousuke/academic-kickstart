@@ -74,9 +74,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**"Welfare Effects of Polarization: Occupational Mobility over a Life-cycle"**  
-joint with [Sagiri Kitao](https://sites.google.com/site/sagirikitao/) (UTokyo)  
-(Draft available soon)  
 
 **"The Tie between Female and Machine: Implications of Aging for Female Employment, Automation, and Structural Change"**  
 joint with [Minamo Mikoshiba](https://sites.google.com/view/minamomikoshiba/) (UTokyo)  
