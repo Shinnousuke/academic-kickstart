@@ -75,9 +75,12 @@ subtitle = ""
  css_class = ""
 +++
 
-**"The Tie between Female and Machine: Implications of Aging for Female Employment, Automation, and Structural Change"**  
-joint with [Minamo Mikoshiba](https://sites.google.com/view/minamomikoshiba/) (UTokyo)  
-(Draft available soon)
-
 **"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
+
+**"Aging, Female Employment, and Structural Change"**  
+joint with [Minamo Mikoshiba](https://sites.google.com/view/minamomikoshiba/) (UTokyo)
+
+**"Optimal Monetary Policy toward Biased Technological Shock"**
+
+**"Steady State"**
