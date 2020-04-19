@@ -74,6 +74,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Heterogeneous Vulnerability to the Covid-19 crisis in Japan**  
+joint with Sagiri Kitao (UTokyo) and Minamo Mikoshiba (UTokyo)
 
 **"Macroeconomic and Welfare Effects of Covid-19 in Japan: Roles of Labor Market Heterogeneity"**  
 joint with Sagiri Kitao (UTokyo) and Minamo Mikoshiba (UTokyo)
