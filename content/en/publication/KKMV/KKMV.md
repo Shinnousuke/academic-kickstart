@@ -22,19 +22,7 @@ publication_types = ["3"]
 # publication_short = "WSC 2018"
 
 # Abstract and optional shortened version.
-abstract = "We study how the COVID-19 crisis could affect earnings inequality across heterogeneous
-individuals in Japan. We use the Employment Status Survey (ESS) to
-identify groups of individuals who are more vulnerable to the COVID-19 shocks,
-which likely affect workers in different industries, occupations, and employment
-types in different magnitude. We assess the impact using various data and early evidence
-including consumption expenditures data from the JCB Consumption NOW
-during the first weeks of the pandemic. Our study identifies significant heterogeneity
-in vulnerability to the COVID-19 shocks across workers of different types. We
-find that the crisis will hit low-income groups by more and is likely to significantly
-exacerbate inequality through many channels that we could think of, calling for
-urgent and large-scale assistance targeted towards affected individuals and for necessary
-support towards affected industries in the medium term once the infection
-risks are under control."
+abstract = "We study how the COVID-19 crisis could affect earnings inequality across heterogeneous individuals in Japan. We use the Employment Status Survey (ESS) to identify groups of individuals who are more vulnerable to the COVID-19 shocks, which likely affect workers in different industries, occupations, and employment types in different magnitude. We assess the impact using various data and early evidence including consumption expenditures data from the JCB Consumption NOW during the first weeks of the pandemic. Our study identifies significant heterogeneity in vulnerability to the COVID-19 shocks across workers of different types. We find that the crisis will hit low-income groups by more and is likely to significantly exacerbate inequality through many channels that we could think of, calling for urgent and large-scale assistance targeted towards affected individuals and for necessary support towards affected industries in the medium term once the infection risks are under control."
 
 # Is this a featured publication? (true/false)
 featured = false
