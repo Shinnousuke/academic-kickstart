@@ -22,9 +22,9 @@ bio: I am a macroeconomist interested in understanding inequality and growth.
 
 interests:
 - Macroeconomics
-- Labor economics
-- Public economics
-- Development economics
+- Labor Economics
+- Public Economics
+- International Economics
 
 education:
   courses:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:skikuchi@mit.edu'
+  link: 'mailto:shinnkikuchi@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShinnKikuchi
@@ -57,7 +57,7 @@ social:
   link: "en/home/docs/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "shinnkikuchi@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -66,4 +66,4 @@ email: ""
 # - Visitors
 ---
 
-I am a first year Ph.D. student at MIT Economics. My main research themes are Macroeconomics and Inequality. I work on a broad array of topics which overlap with Labor Economics, Public Economics, and Development Economics. 
+I am a first year Ph.D. student at MIT Economics. My main research themes are Macroeconomics and Inequality. I work on a broad array of topics which overlap with Labor Economics, Public Economics, and International Economics.

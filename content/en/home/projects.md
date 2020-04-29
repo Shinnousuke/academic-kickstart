@@ -82,5 +82,3 @@ joint with Tishara Garg (MIT)
 
 **"Aging, Female Employment, and Structural Change"**  
 joint with Minamo Mikoshiba (UTokyo)
-
-**"Optimal Monetary Policy toward Biased Technological Shock"**
