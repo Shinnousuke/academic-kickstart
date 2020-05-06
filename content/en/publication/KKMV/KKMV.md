@@ -33,7 +33,9 @@ links:
 - name: RIETI Discussion Paper Series
   url: https://www.rieti.go.jp/en/publications/summary/20040020.html
 - name: CREPE Discussion Paper Series
-  url: http://www.crepe.e.u-tokyo.ac.jp/results/2020/crepedp71.html  
+  url: http://www.crepe.e.u-tokyo.ac.jp/results/2020/crepedp71.html
+- name: VOX article
+  url: https://voxeu.org/article/heterogeneous-employment-vulnerability-and-inequality-japan 
 url_pdf: en/downloads/KKM-V.pdf
 #url_code: '#'
 #url_dataset: '#'

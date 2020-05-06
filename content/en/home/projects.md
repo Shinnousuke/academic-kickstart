@@ -74,11 +74,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**"Macroeconomic and Welfare Effects of Covid-19 in Japan: Roles of Labor Market Heterogeneity"**  
-joint with Sagiri Kitao (UTokyo) and Minamo Mikoshiba (UTokyo)
-
 **"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
 
-**"Aging, Female Employment, and Structural Change"**  
+**"Aging, Female Employment, and Structural Change: Evidenc from Japan"**  
 joint with Minamo Mikoshiba (UTokyo)

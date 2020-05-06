@@ -60,7 +60,8 @@ date_format = "Jan 2006"
 +++
 
 **[MIT Department of Economics ](https://economics.mit.edu/)** - Cambridge, MA, USA  
-*Research Assistant to Josh Angrist, Oct 2019 -*
+*Research Assistant to Daron Acemoglu and David Autor, May 2020 - Current*  
+*Research Assistant to Josh Angrist, Oct 2019 - April 2020*
 
 **[Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/english/)** - Tokyo, Japan  
 *Policy Adviser, July 2019*
@@ -74,6 +75,3 @@ date_format = "Jan 2006"
 
 **[Goldman Sachs](https://www.goldmansachs.com/)** - Tokyo, Japan  
 *Research Intern, Nov 2018 - Apr 2019*
-
-**[Center for Research and Education in Program Evaluation](http://www.crepe.e.u-tokyo.ac.jp/en/index.html)** - Tokyo, Japan  
-*Trainee, Apr 2018 - Mar 2019*

@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a macroeconomist interested in understanding inequality and growth.
+bio: I am a macroeconomist interested in understanding inequality and technology.
 
 interests:
 - Macroeconomics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Massachusetts Institute of Technology
-    year: 2019 - (current)
+    year: 2019 - current
   - course: M.A. in Economics
     institution: University of Tokyo
     year: 2017 - 2019
@@ -66,4 +66,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a first year Ph.D. student at MIT Economics. My main research themes are Macroeconomics and Inequality. I work on a broad array of topics which overlap with Labor Economics, Public Economics, and International Economics.
+I am a first year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. I also work on a broad array of topics which overlap with Public Economics and International Economics.
