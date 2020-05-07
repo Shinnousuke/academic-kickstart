@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 菊池　信之介(Shinnosuke Kikuchi)
+name: 菊池　信之介　(Shinnosuke Kikuchi)
 
 # Username (this should match the folder name)
 authors:
@@ -24,14 +24,13 @@ interests:
 - マクロ経済学
 - 労働経済学
 - 公共経済学
-- 開発経済学・経済成長論
-- 計量経済学・因果推論
+- 国際・開発経済学
 
 education:
   courses:
   - course: 経済学博士課程
     institution:  マサチューセッツ工科大学
-    year: 2019-2025 (在籍中)
+    year: 2019- (在籍中)
   - course: 経済学修士
     institution: 東京大学
     year: 2019
@@ -69,6 +68,6 @@ email: ""
 
 マサチューセッツ工科大学 経済学部博士課程
 
-マクロ経済学やミクロ計量経済学の手法を用いて、経済成長と格差の関係、テクノロジーが雇用と賃金にもたらす影響、ならびにそれに伴う最適な政策対応について研究。昔はMcKinseyでコンサルタントをしていました。
+マクロ経済学やミクロ計量経済学の手法を用いて、経済成長、格差、技術革新、労働市場（雇用や賃金）について研究をしています。昔はMcKinseyでコンサルタントをしていました。
 
 略歴や研究の詳細については[英語のページ](https://shinnosuke-kikuchi.com/en/)をご覧ください。
