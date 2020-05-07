@@ -1,74 +1,65 @@
-+++
-title = "Technology, Inequality, and Aggregate Demand"
-date = 2019-11-01T00:00:00
-draft = false
+---
+title: "Technology, Inequality, and Aggregate Demand"
+authors:
+- admin  
+date: "2019-05-16T00:00:00Z"
+doi: ""
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shinnosuke Kikuchi"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-05-16T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["3"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
 
-# Publication name and optional abbreviated version.
-# publication = "Winter Simulation Conference"
-# publication_short = "WSC 2018"
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
 
-# Abstract and optional shortened version.
-abstract = "What is the macroeconomic implications of inequality caused by technological progress? Using a standard over-lapping-generations model with skill heterogeneity and the Roy-type occupational choice, this paper examines how routine-biased technological change impacts income distribution and aggregate demand. It finds that the relatively rapid labor productivity increase in the manufacturing sector compared to the service sector can explain job and wage polarization and about two-thirds of the decline in the real interest rate in the US from the 1980's to 2010's. It also documents the potential contribution of that biased technological change to the stagnation of aggregate output."
+abstract: What is the macroeconomic implications of inequality caused by technological progress? Using a standard over-lapping-generations model with skill heterogeneity and the Roy-type occupational choice, this paper examines how routine-biased technological change impacts income distribution and aggregate demand. It finds that the relatively rapid labor productivity increase in the manufacturing sector compared to the service sector can explain job and wage polarization and about two-thirds of the decline in the real interest rate in the US from the 1980's to 2010's. It also documents the potential contribution of that biased technological change to the stagnation of aggregate output.
 
-# Is this a featured publication? (true/false)
-featured = false
+# Summary. An optional shortened abstract.
+summary: We study the macroeconomic implications of inequality caused by technological progress.
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+tags:
+- Source Themes
+featured: false
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
-# Links (optional).
-url_pdf = "en/downloads/AIAD.pdf"
-#url_preprint = "/downloads/MyopiaInDynamicSpatialGames.pdf"
-#url_code = "https://github.com/rebekahanne/Myopia_dynamic_spatial_games"
-#url_dataset = "#"
-#url_project = "#"
-url_slides = "en/downloads/AIAD-slide.pdf"
-#url_video = "#"
-#url_poster = "#"
-#url_source = "#"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = true
+links:
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3332993
+url_pdf: en/downloads/AIAD.pdf
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+url_slides: en/downloads/AIAD-slide.pdf
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#  focal_point: ""
+#  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
-[SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3332993) is available
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+#- internal-project
 
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
+
+Under a major revision
