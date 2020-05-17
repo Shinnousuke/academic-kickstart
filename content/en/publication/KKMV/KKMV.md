@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomic and Welfare Effects of Covid-19 in Japan: Roles of Labor Market Heterogeneity"
 authors:
-- admin  
+- admin
 - Sagiri Kitao
 - Minamo Mikoshiba
 date: "2020-04-29T00:00:00Z"

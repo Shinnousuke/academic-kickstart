@@ -77,5 +77,5 @@ subtitle = ""
 **"Growth without Industrialization"**  
 joint with Tishara Garg (MIT)
 
-**"Aging, Female Employment, and Structural Change: Evidenc from Japan"**  
+**"Aging, Female Employment, and Structural Change: Evidence from Japan"**  
 joint with Minamo Mikoshiba (UTokyo)
