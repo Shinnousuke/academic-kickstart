@@ -66,4 +66,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a first year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. I also work on a broad array of topics which overlap with Public Economics and International Economics.
+I am a first year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. I also work on a broad array of topics which overlap with Public Economics and International Economics. Currently I am working on projects related to technology, inequality, and structural change.
