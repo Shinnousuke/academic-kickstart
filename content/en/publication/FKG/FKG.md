@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links: 
-url_pdf: en/downloads/FKG.pdf
+#url_pdf: en/downloads/FKG.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
