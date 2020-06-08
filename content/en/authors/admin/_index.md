@@ -23,8 +23,6 @@ bio: I am a macroeconomist interested in understanding inequality and technology
 interests:
 - Macroeconomics
 - Labor Economics
-- Public Economics
-- International Economics
 
 education:
   courses:
@@ -66,4 +64,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a first year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. I also work on a broad array of topics which overlap with Public Economics and International Economics. Currently I am working on projects related to technology, inequality, and structural change.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. In patricular, I am interested in heterogeneous implications of shocks, such as technology, trade, and recession.
