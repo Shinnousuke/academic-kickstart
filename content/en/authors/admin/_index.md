@@ -64,4 +64,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. In patricular, I am interested in heterogeneous implications of shocks, such as technology, trade, and recession.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. My current work aims to improve our understandings of the distributional consequences of technology, growth, trade, and recession.
