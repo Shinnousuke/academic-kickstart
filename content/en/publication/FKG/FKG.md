@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The COVID-19 shock has brought significant impacts to the labor market all over the world, and Japan is not an exception. We document changes in the job vacancy postings behaviors in Japan using a new, unique microdata on online job postings. We find that the changes are hardly uniform across many dimensions. First, there were larger declines in the number of job vacancy postings for part-time jobs, services or manufacturing industries, production or services occupations, the largest or the smallest establishments, and lower skilled jobs. Second, we found little response of posted wages to COVID-19 shock, even though 30% of consecutively posted jobs change wages every month. Finally,  the posted wages are equally flexible both upward and downward, which implies little support for the downward nominal wage rigidity.
+abstract: Under major revision
 
 # Summary. An optional shortened abstract.
 summary:  We document changes in the job vacancy postings behaviors in Japan using a new, unique microdata on online job postings.
