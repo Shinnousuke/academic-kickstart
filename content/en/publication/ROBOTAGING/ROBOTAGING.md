@@ -3,7 +3,7 @@ title: "Welfare Effects of Polarization: Occupational Mobility over the Life-cyc
 authors:
 - admin  
 - Sagiri Kitao
-date: "2020-05-13T00:00:00Z"
+date: "2020-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,9 @@ abstract: The U.S. labor market has experienced polarization over the past sever
 summary: We study heterogeneity in the welfare effects of polarization in the US labor market
 
 tags:
-- Source Themes
+- Structural Change
+- Technology and Inequality
+- Labor Economics
 featured: false
 
 links:

@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomic and Welfare Effects of Covid-19 in Japan: Roles of Labor Market Heterogeneity"
+title: "Heterogeneous Vulnerability to the COVID-19 Crisis and Implications for Inequality in Japan"
 authors:
 - admin
 - Sagiri Kitao
@@ -26,7 +26,8 @@ abstract: We study how the COVID-19 crisis could affect earnings inequality acro
 summary: We study how the COVID-19 crisis could affect earnings inequality across heterogeneous individuals in Japan.
 
 tags:
-- Source Themes
+- Labor Economics
+- Japanese Economy
 featured: false
 
 links:
