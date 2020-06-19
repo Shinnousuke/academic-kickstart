@@ -30,7 +30,9 @@ tags:
 - Japanese Economy
 featured: false
 
-links: 
+links:
+- name: CREPE Discussion Paper Series
+  url: http://www.crepe.e.u-tokyo.ac.jp/results/2020/crepedp73.html
 url_pdf: en/downloads/FKG.pdf
 #url_code: '#'
 #url_dataset: '#'
