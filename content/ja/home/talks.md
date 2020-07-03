@@ -77,6 +77,9 @@ CREPE（東京大学政策評価研究教育センター）コラム　2020年5�
 - [新型コロナ（COVID-19）危機に対する脆弱性分布と格差への示唆](https://www.rieti.go.jp/jp/publications/nts/20e039.html)  
 RIETI（経済産業研究所）ノンテクニカルサマリー　2020年4月掲載
 
+- [テクノロジーがもたらす経済成長と雇用](https://premium.toyokeizai.net/articles/-/20535)  
+週刊東洋経済Plus　2019年5月18日掲載
+
 ### 留学関連
 - [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)  
 海外大学院留学について、かなり一般的なお話をしました。詳しくは、[当日の資料](https://www.dropbox.com/s/yzy6otg4zvnn80j/slide_Panel_Admission_PhD_abroad_vFrev1.pdf?dl=0)をご覧ください。
