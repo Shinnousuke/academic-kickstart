@@ -23,8 +23,6 @@ bio: Ph.D. student interested in Macroeconomics, Technology, and Inequality
 interests:
 - マクロ経済学
 - 労働経済学
-- 公共経済学
-- 国際・開発経済学
 
 education:
   courses:

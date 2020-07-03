@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 85  # Order that this section will appear.
 
-title = "日本出没情報"
+title = "日本での活動"
 subtitle = ""
 
 [content]
@@ -67,11 +67,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### 予定
-2020年1月29日現在、予定はありません。
+### コラムなど
+- [米国における中間層の消失：教育水準や世代における格差拡大の観点](https://www.rieti.go.jp/jp/columns/a01_0605.html)  
+RIETI（経済産業研究所）コラム　2020年7月3日掲載　
 
+- [新型コロナ（COVID-19）危機が引き起こす格差の拡大](http://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html)  
+CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載
 
-### 過去
+- [新型コロナ（COVID-19）危機に対する脆弱性分布と格差への示唆](https://www.rieti.go.jp/jp/publications/nts/20e039.html)  
+RIETI（経済産業研究所）ノンテクニカルサマリー　2020年4月掲載
+
+### 留学関連
 - [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)  
 海外大学院留学について、かなり一般的なお話をしました。詳しくは、[当日の資料](https://www.dropbox.com/s/yzy6otg4zvnn80j/slide_Panel_Admission_PhD_abroad_vFrev1.pdf?dl=0)をご覧ください。
 
