@@ -67,18 +67,25 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### コラムなど
+### 著書
+- [コロナ危機の経済学　提言と分析](https://nikkeibook.nikkeibp.co.jp/item-detail/35861)  
+日本経済新聞出版　2020年7月18日発売予定　共著　第15章主筆
+
+### コラム（主筆のみ）
+- [コロナ危機は、企業の退出にどのような影響を及ぼしたか？](https://www.rieti.go.jp/jp/columns/a01_0607.html)  
+RIETI（経済産業研究所）コラム　2020年7月10日掲載　共著
+
 - [米国における中間層の消失：教育水準や世代における格差拡大の観点](https://www.rieti.go.jp/jp/columns/a01_0605.html)  
-RIETI（経済産業研究所）コラム　2020年7月3日掲載　
+RIETI（経済産業研究所）コラム　2020年7月3日掲載　共著
 
 - [新型コロナ（COVID-19）危機が引き起こす格差の拡大](http://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html)  
-CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載
+CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載　共著
 
 - [新型コロナ（COVID-19）危機に対する脆弱性分布と格差への示唆](https://www.rieti.go.jp/jp/publications/nts/20e039.html)  
-RIETI（経済産業研究所）ノンテクニカルサマリー　2020年4月掲載
+RIETI（経済産業研究所）ノンテクニカルサマリー　2020年4月掲載　共著
 
 - [テクノロジーがもたらす経済成長と雇用](https://premium.toyokeizai.net/articles/-/20535)  
-週刊東洋経済Plus　2019年5月18日掲載
+週刊東洋経済Plus　2019年5月18日掲載　単著
 
 ### 留学関連
 - [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)  
