@@ -81,9 +81,6 @@ RIETI（経済産業研究所）コラム　2020年7月3日掲載　共著
 - [新型コロナ（COVID-19）危機が引き起こす格差の拡大](http://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html)  
 CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載　共著
 
-- [新型コロナ（COVID-19）危機に対する脆弱性分布と格差への示唆](https://www.rieti.go.jp/jp/publications/nts/20e039.html)  
-RIETI（経済産業研究所）ノンテクニカルサマリー　2020年4月掲載　共著
-
 - [テクノロジーがもたらす経済成長と雇用](https://premium.toyokeizai.net/articles/-/20535)  
 週刊東洋経済Plus　2019年5月18日掲載　単著
 
