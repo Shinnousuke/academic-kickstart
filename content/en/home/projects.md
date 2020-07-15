@@ -75,7 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 **"Growth without Industrialization"**  
-joint with Tishara Garg (MIT)
+joint with Edward Davenport (MIT) and Tishara Garg (MIT)
 
-**"Aging, Female Employment, and Structural Change: Evidence from Japan"**  
-joint with Minamo Mikoshiba (UTokyo)
+**"Aging in Space"**  

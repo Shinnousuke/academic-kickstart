@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
 title = "日本での活動"
@@ -69,7 +69,7 @@ subtitle = ""
 +++
 ### 著書
 - [コロナ危機の経済学　提言と分析](https://nikkeibook.nikkeibp.co.jp/item-detail/35861)  
-日本経済新聞出版　2020年7月18日発売予定　共著　第15章主筆
+日本経済新聞出版　2020年7月　共著　第15章主筆
 
 ### コラム（主筆のみ）
 - [コロナ危機は、企業の退出にどのような影響を及ぼしたか？](https://www.rieti.go.jp/jp/columns/a01_0607.html)  
