@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 55  # Order that this section will appear.
 
 title = "その他の経験"
 subtitle = ""
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2019-10-01"
   date_end = ""
-  description = "Prof. Josh Angrist, Prof. Daron Acemoglu"
+  description = "Prof. Daron Acemoglu, Prof. David AUtor, Prof. Josh Angrist"
 [[experience]]
   title = "アドバイザー"
   company = "厚生労働省"
