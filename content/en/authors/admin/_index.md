@@ -23,7 +23,6 @@ bio: I am a macroeconomist interested in understanding inequality and technology
 interests:
 - Macroeconomics
 - Labor Economics
-- Japanese Economy
 
 education:
   courses:
