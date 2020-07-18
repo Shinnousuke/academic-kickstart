@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
 title = "日本での活動"
@@ -69,20 +69,21 @@ subtitle = ""
 +++
 ### 著書
 - [コロナ危機の経済学　提言と分析](https://nikkeibook.nikkeibp.co.jp/item-detail/35861)  
-日本経済新聞出版　2020年7月　共著　第15章主筆
+日本経済新聞出版　2020年7月　共著　第15章主筆（東京大学北尾早霧さん、東京大学御子柴みなもさんとの共著）
 
 ### コラム（主筆のみ）
 - [コロナ危機は、企業の退出にどのような影響を及ぼしたか？](https://www.rieti.go.jp/jp/columns/a01_0607.html)  
-RIETI（経済産業研究所）コラム　2020年7月10日掲載　共著
+RIETI（経済産業研究所）コラム　2020年7月10日掲載　共著（国際通貨基金Gee Hee Hongさん、早稲田大学齊藤有希子さんとの共著）
 
 - [米国における中間層の消失：教育水準や世代における格差拡大の観点](https://www.rieti.go.jp/jp/columns/a01_0605.html)  
-RIETI（経済産業研究所）コラム　2020年7月3日掲載　共著
+RIETI（経済産業研究所）コラム　2020年7月3日掲載　共著（東京大学北尾早霧さんとの共著）
 
 - [新型コロナ（COVID-19）危機が引き起こす格差の拡大](http://www.crepe.e.u-tokyo.ac.jp/material/crepecl7.html)  
-CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載　共著
+CREPE（東京大学政策評価研究教育センター）コラム　2020年5月掲載　共著（東京大学北尾早霧さん、東京大学御子柴みなもさんとの共著）
 
 - [テクノロジーがもたらす経済成長と雇用](https://premium.toyokeizai.net/articles/-/20535)  
-週刊東洋経済Plus　2019年5月18日掲載　単著
+週刊東洋経済Plus　2019年5月18日掲載　単著  
+全文をご覧になるには登録が必要です  
 
 ### 留学関連
 - [2019年12月26日(木) 海外大学院留学説明会@ICU](https://gakuiryugaku.net/seminar/1716)  
