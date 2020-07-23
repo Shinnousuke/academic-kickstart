@@ -83,14 +83,14 @@ date_format = "Jan 2006"
 **Grant-in-Aid for Research Fellow** --- *Apr 2019 - July 2019*  
 [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/)    
 - [Project Number 19J20069](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20069/)  
-- JPY 3,100,000 (roughly equal to USD 30,000)
+- JPY 3,100,000 (about USD 30,000)
 
 **Valedictorian** --- *Mar 2016*  
 [University of Tokyo](https://www.u-tokyo.ac.jp/en/)    
-- [Given to 2 graduating seniors by academic achievement in the University, of over 3,000 total](https://www.u-tokyo.ac.jp/focus/en/articles/t_z1301_00005.html)
+- [Given to 2 graduating seniors by academic achievement in the University, of over 3,000 graduates total](https://www.u-tokyo.ac.jp/focus/en/articles/t_z1301_00005.html)
 
 **Summa Cum Laude** --- *Mar 2016*  
 [Department of Economics, University of Tokyo](http://www.e.u-tokyo.ac.jp/)    
-- Given to 1 graduating senior by academic achievement in the Department of Economics, of over 400 total
+- Given to 1 graduating senior by academic achievement in the Department of Economics, of over 400 graduates total
 
 

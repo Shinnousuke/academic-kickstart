@@ -41,18 +41,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:skikuchi@mit.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ShinnKikuchi_jp
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:skikuchi@mit.edu'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ShinnKikuchi_jp
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/Shinnousuke
-- icon: cv
-  icon_pack: ai
-  link: "ja/home/docs/CV.pdf"
+#- icon: cv
+#  icon_pack: ai
+#  link: "ja/home/docs/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,7 +66,6 @@ email: ""
 
 マサチューセッツ工科大学 経済学部博士課程
 
-マクロ経済学やミクロ計量経済学の手法を用いて、経済成長と格差の関係、産業の構造変化、労働市場（雇用や賃金）について研究をしています。  
-直近では、長期的なマクロトレンド（技術革新、国際化、高齢化、気候変動）や短期的な景気変動（コロナ危機を含む）が、異質な経済主体（異なるタイプの労働者や企業）にどのような影響をもたらすかを重点的に研究しています。  
+経済成長と格差の関係、産業の構造変化、労働市場（雇用や賃金）について研究をしています。直近では、長期的なマクロトレンド（技術革新、国際化、高齢化、気候変動）や短期的な景気変動が、異質な経済主体（異なるタイプの労働者や企業）にどのような影響をもたらすかを重点的に研究しています。  
 
 詳細については[英語のページ](https://shinnosuke-kikuchi.com/en/)をご覧ください。

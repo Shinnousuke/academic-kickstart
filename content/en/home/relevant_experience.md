@@ -68,7 +68,7 @@ date_format = "Jan 2006"
 
 **[Ministry of Economy, Trade and Industry](https://www.meti.go.jp/english/)** - Tokyo, Japan  
 *Lecturer, Apr 2019 - July 2019*  
-- Provide lectures on graduate-level economic growth theory
+- Lectures on graduate-level economic growth theory
 
 **[Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/)** - Tokyo, Japan  
 *Research Fellow, Apr 2019 - July 2019*
