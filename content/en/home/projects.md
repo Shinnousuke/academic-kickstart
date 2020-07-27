@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Work in Progress"
@@ -74,7 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**"Growth without Industrialization"**  
-joint with Edward Davenport (MIT) and Tishara Garg (MIT)
-
-**"Aging in Space"**  
+**"Aging Population and Spacial Growth"**  
