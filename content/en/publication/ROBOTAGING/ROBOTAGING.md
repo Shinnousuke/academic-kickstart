@@ -38,7 +38,7 @@ url_pdf: en/downloads/ROBOTAGING.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: en/downloads/ROBOTAGING-slide.pdf
+#url_slides: en/downloads/ROBOTAGING-slide.pdf
 #url_source: '#'
 #url_video: '#'
 
