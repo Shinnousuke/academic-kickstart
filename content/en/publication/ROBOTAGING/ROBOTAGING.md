@@ -16,10 +16,11 @@ publishDate: "2020-05-13T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: 
+publication_short: 
 
-abstract: What are the welfare effects of polarization: wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals' responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
+abstract: What are the welfare effects of polarization wage and employment losses of middle-class workers relative to low- and high-skill groups? We build a model of overlapping generations who choose consumption, savings, labor supply, and occupations over their life-cycles, and accumulate human capital. We simulate a wage shift observed since the early 1980s and investigate individuals' responses. Polarization improves welfare of young individuals that are high-skilled, while it hurts low-skilled individuals across all ages and especially younger ones. The gain of the high-skilled is larger for generations entering in later periods, who can fully exploit the rising skill premium.
+
 
 # Summary. An optional shortened abstract.
 summary: We study heterogeneity in the welfare effects of polarization in the US labor market
