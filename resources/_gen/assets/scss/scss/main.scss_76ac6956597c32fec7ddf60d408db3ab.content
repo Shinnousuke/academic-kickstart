@@ -7175,6 +7175,9 @@ body {
     margin-top: 50px;
     /* Offset body content by navbar height. */ } }
 
+body.no-navbar {
+  margin-top: 0 !important; }
+
 .max-width-640 {
   max-width: 640px; }
 
@@ -7259,6 +7262,10 @@ video {
   max-width: 100%;
   display: block; }
 
+audio {
+  width: 100%;
+  margin-bottom: 20px; }
+
 video {
   width: 100%;
   height: auto;
@@ -7288,12 +7295,12 @@ pre,
 code {
   font-family: "Roboto Mono", monospace;
   color: #c7254e;
-  background-color: #f9f2f4; }
+  /* Match bg of default highlight theme. */
+  background-color: #f8f8f8; }
 
 pre {
   margin: 0 0 1rem 0;
-  background-color: #f8f8f8;
-  /* Match default highlight theme. */
+  /* Match bg of default highlight theme. */
   border-color: #f8f8f8;
   font-size: 0.7rem;
   border-radius: 4px; }
@@ -7647,6 +7654,36 @@ div.alert a {
   background-color: #fff5f7;
   border-color: #ff3860; }
 
+.svg-icon {
+  display: inline-flex;
+  align-self: center; }
+
+.svg-icon {
+  height: 0.9em;
+  width: 0.9em; }
+
+.svg-icon.svg-baseline {
+  bottom: 0.1em;
+  line-height: 1;
+  position: relative; }
+
+.footer-license-icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  height: auto;
+  width: auto;
+  font-size: 0;
+  text-decoration: none; }
+
+.footer-license-icons img {
+  display: inline-flex;
+  margin-right: 8px;
+  height: 22px;
+  vertical-align: text-bottom; }
+
 /*************************************************
  *  Navigation bar
  **************************************************/
@@ -7685,7 +7722,7 @@ div.alert a {
   .navbar .dropdown-menu {
     font-size: 16.17px; }
   .navbar .dropdown-item.active,
-  .navbar .i18n-active {
+  .navbar .dropdown-item-active {
     font-weight: bold;
     color: #2962ff !important; }
 
@@ -7705,13 +7742,15 @@ div.alert a {
 @media (max-width: 991.98px) {
   /* Match breakpoint for i18n dropdown in navbar.html. */
   .i18n-dropdown .nav-link::after {
-    content: none; }
-  .i18n-dropdown .dropdown-menu {
-    /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
-    position: absolute;
-    /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
-    right: 0;
-    left: auto; } }
+    content: none; } }
+
+.i18n-dropdown .dropdown-menu,
+.theme-dropdown .dropdown-menu {
+  /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
+  position: absolute;
+  /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
+  right: 0;
+  left: auto; }
 
 /*
 .navbar .collapse {
@@ -7810,6 +7849,11 @@ ul.nav-icons li.nav-item a.nav-link {
   background: #282a36;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid #44475a; }
+
+/* In page listings, display the linked summaries as normal text except for the hover cursor. */
+a.summary-link {
+  color: unset;
+  text-decoration: none; }
 
 .card {
   margin-bottom: 1.5rem;
@@ -8012,10 +8056,6 @@ ul.nav-icons li.nav-item a.nav-link {
 /*************************************************
  *  Page content
  **************************************************/
-article {
-  animation: intro 0.3s both;
-  animation-delay: 0.15s; }
-
 .article-container {
   max-width: 760px;
   padding: 0 20px 0 20px;
@@ -8108,6 +8148,11 @@ article .article-metadata {
 
 .article-metadata a:hover {
   color: #2962ff; }
+
+.article-metadata .author-notes {
+  cursor: help;
+  vertical-align: super;
+  font-size: 0.7em; }
 
 .article-categories {
   white-space: nowrap;
@@ -9041,7 +9086,7 @@ body.dark,
   background-color: #44475a; }
 
 .dark pre {
-  background-color: #44475a;
+  /* Match `pre` bg color above. */
   border-color: #44475a; }
 
 .dark .markup-quote {
@@ -9123,3 +9168,9 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+/*************************************************
+ *  Style for right to left (RTL) languages.
+ **************************************************/
+html[dir="rtl"] body {
+  text-align: right; }
