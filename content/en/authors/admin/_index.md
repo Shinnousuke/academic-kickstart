@@ -64,4 +64,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic growth and Labor economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends and roles of heterogeneity in aggregate economic outcomes.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic Growth and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends.
