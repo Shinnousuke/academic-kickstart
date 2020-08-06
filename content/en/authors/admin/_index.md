@@ -48,12 +48,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShinnKikuchi
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Shinnousuke
-#- icon: cv
-#  icon_pack: ai
-#  link: "en/downloads/CV.pdf"
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Shinnousuke
+- icon: cv
+  icon_pack: ai
+  link: "en/downloads/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shinnkikuchi@gmail.com"
