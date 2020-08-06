@@ -23,7 +23,6 @@ bio: I am a rising second year Ph.D. student at MIT Economics
 interests:
 - Economic Growth
 - Labor Economics
-- Political Economy
 
 education:
   courses:
@@ -53,7 +52,7 @@ social:
 #  link: https://github.com/Shinnousuke
 - icon: cv
   icon_pack: ai
-  link: "en/downloads/CV.pdf"
+  link: "en/home/docs/CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shinnkikuchi@gmail.com"
@@ -65,4 +64,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic Growth and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends. I am also interested in topics related to Political Economy.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic Growth and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends
