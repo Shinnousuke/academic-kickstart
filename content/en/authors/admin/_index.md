@@ -18,10 +18,10 @@ organizations:
   url: "https://economics.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a macroeconomist interested in understanding inequality and technology.
+bio: I am a rising second year Ph.D. student at MIT Economics
 
 interests:
-- Macroeconomics
+- Economic Growth
 - Labor Economics
 
 education:
@@ -64,4 +64,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Macroeconomics and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic growth and Labor economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends and roles of heterogeneity in aggregate economic outcomes.
