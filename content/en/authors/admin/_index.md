@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shinnosuke Kikuchi
+name: Shinnosuke Kikuchi
 
 # Username (this should match the folder name)
 authors:
@@ -65,4 +65,4 @@ email: "shinnkikuchi@gmail.com"
 # - Visitors
 ---
 
-I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic Growth and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends.
+I am a rising second year Ph.D. student at MIT Economics. My main research focuses on Economic Growth and Labor Economics. My current work aims to improve our understandings of the distributional consequences of shocks and trends. I am also interested in Political Economy
